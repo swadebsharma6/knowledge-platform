@@ -1,9 +1,20 @@
-import './App.css'
+import React from 'react';
+import './App.css';
+import Service from './Service';
 
 function App() {
  
 
+const App = () => {
   return (
+<<<<<<< HEAD
+    <div>
+      <h2>I Am Dev2 And Implemnt Project Features </h2>
+      <Service></Service>
+    </div>
+  );
+};
+=======
 <<<<<<< HEAD
     <section>
       <h1>LogIn Implement </h1>
@@ -29,5 +40,6 @@ function App() {
 >>>>>>> 1666b8198b27544dca8f2fcf920bde02215550b4
   )
 }
+>>>>>>> f6f7df30760e26943cb578b7414727ba504e5093
 
-export default App
+export default App;
