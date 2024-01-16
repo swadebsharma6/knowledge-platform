@@ -4,6 +4,16 @@ function App() {
  
 
   return (
+<<<<<<< HEAD
+    <section>
+      <h1>LogIn Implement </h1>
+       <p>Please Register and Login </p>
+       <div>
+       
+       
+       </div>
+    </section>
+=======
     <sec>
       
       <h1>Vite + React</h1>
@@ -16,6 +26,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
     </sec>
+>>>>>>> 1666b8198b27544dca8f2fcf920bde02215550b4
   )
 }
 
